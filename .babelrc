@@ -1,0 +1,4 @@
+//how to parse code 
+{
+  "presets": ["@babel/preset-react", "@babel/preset-env"]
+}
