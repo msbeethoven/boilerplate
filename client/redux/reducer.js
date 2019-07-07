@@ -7,4 +7,4 @@ const dummyReducer = (state = {}, action) => {
   }
 };
 
-export default reducer; 
+export default dummyReducer; 
